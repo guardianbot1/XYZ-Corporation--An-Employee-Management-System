@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System Database
 
 Hello There, It is a simple university project of database course. I have made a simple UI and basic SQL commands to make this project.
@@ -43,3 +44,6 @@ Pass: admin
 ID: User's Email Address
 
 Pass: 1234 (By Default, User can change if they wish)
+=======
+# XYZ-Corporation--An-Employee-Management-System
+>>>>>>> 5e2eae373595934ad87159d0f3d5e3053edb6500
